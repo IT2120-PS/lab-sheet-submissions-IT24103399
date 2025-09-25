@@ -1,4 +1,4 @@
-setwd("C:\\Users\\am\\Desktop\\IT23219434")
+setwd("C:\\Users\\it24103399\\Desktop\\IT24103399_lab08")
 
 nicotine <- scan("Data - Lab 8.txt", what = numeric(), skip = 1)
 weights  <- scan("Exercise - LaptopsWeights.txt", what = numeric(), skip = 1)
